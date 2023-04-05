@@ -3,9 +3,10 @@
 ### I recently graduated from Le Wagon's full-time Web Developement Bootcamp 
 ### Currently looking for a position as a junior web developer💻 
 
-- 🔭 I’m currently working on Templates Extension
+- 🔭 Current project: Templates Extension
 - 🌱 Currently reading **Clean Code** <sub>A Handbook of Agile Software Craftsmanship</sub>
-
+- 📫 How to reach me: simen.w.@hotmail.com | Simen Woldmo | LinkedIn
+- 
 Feel free to reach out to me if you want to connect! 
 
 
