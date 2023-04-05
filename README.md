@@ -1,7 +1,7 @@
 ### Hi!👋
-### My name is Simen, and I am a norwegian Web Developer 
-# I recently graduated from Le Wagon's full-time Web Developement Bootcamp 
-# Ready to get started on my programming career💻
+## My name is Simen, and I am a norwegian Web Developer 
+### I recently graduated from Le Wagon's full-time Web Developement Bootcamp 
+### Currently looking for a position as a junior web developer💻 
 
 - 🔭 I’m currently working on Templates Extension
 - 🌱 Currently reading **Clean Code** A Handbook of Agile Software Craftsmanship
