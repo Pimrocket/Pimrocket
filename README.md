@@ -4,7 +4,7 @@
 ### Currently looking for a position as a junior web developer💻 
 
 - 🔭 I’m currently working on Templates Extension
-- 🌱 Currently reading **Clean Code** A Handbook of Agile Software Craftsmanship
+- 🌱 Currently reading **Clean Code** <sub>A Handbook of Agile Software Craftsmanship</sub>
 
 Feel free to reach out to me if you want to connect! 
 
