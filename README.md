@@ -5,7 +5,7 @@
 
 - 🔭 Current project: Templates Extension
 - 🌱 Currently reading **Clean Code** <sub>A Handbook of Agile Software Craftsmanship</sub>
-- 📫 How to reach me: simen.w.@hotmail.com | https://www.linkedin.com/in/simenwoldmo/
+- 📫 How to reach me: simen.w.93@hotmail.com | https://www.linkedin.com/in/simenwoldmo/
 
 Feel free to reach out to me if you want to connect! 
 
