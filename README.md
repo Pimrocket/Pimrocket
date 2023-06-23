@@ -1,7 +1,7 @@
 ### Hi!👋
 ## My name is Simen, and I am a Web Developer 
 ### I recently graduated from Le Wagon's full-time Web Developement Bootcamp 
-### Currently looking for a position as a junior web developer💻 
+### Currently working as a Front End Developer at Decathlon Switzerland💻🇨🇭
 
 - 🔭 Current project: Templates Extension
 - 🌱 Currently reading **Clean Code** <sub>A Handbook of Agile Software Craftsmanship</sub>
